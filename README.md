@@ -1,31 +1,31 @@
-# PROJECTNAME
+# Home Network
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Designed and simulated a small-scale home network using Cisco Packet Tracer to understand basic network design, device configuration, and packet flow between network nodes.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+-Configured routers, switches, and end devices in a simulated environment
+-Assigned IP addresses and subnet masks manually
+-Verified connectivity using ping and packet analysis
+-Applied basic security settings such as passwords and console access
+-Troubleshot common network issues (e.g., IP conflicts, wrong cabling)
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+-Cisco Packet Tracer
+-Windows Command Prompt (Ping, ipconfig)
+-Subnet Calculator
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+-Planned the network layout including devices (router, switch, PC, etc.)
+-Placed and connected devices using appropriate cables in Cisco Packet Tracer
+-Assigned static IP addresses to all devices
+-Configured router interfaces and enabled interfaces
+-Verified connectivity between all devices using ping tests
+-Secured router/switch access with basic passwords
+-Documented network topology and configuration in a README file
+-Uploaded the .pkt file and supporting documents to GitHub
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
-
-*Ref 1: Network Diagram*
