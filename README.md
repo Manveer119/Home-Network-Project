@@ -29,6 +29,6 @@ Designed and simulated a small-scale home network using Cisco Packet Tracer to u
 -Uploaded the .pkt file and supporting documents to GitHub
 
 ##
-![image alt]()
+![image alt](https://github.com/Manveer119/Home-Network-Project/blob/f17f6e2265118dd15d4730213d3107aa5a7063eb/home-network1.png)
 
 
